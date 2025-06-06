@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color:#00F;
+	line-height:18px;
+	padding:3px;
+	}
+p.cursiva{
+	font-style:italic;
+	margin-left:2px;
+	line-height:14px;
+	}
+
+.negritas {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #003;
+}
+
+.navegacion{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #6B1101;
+	display: block;
+	width: 140px;
+	padding: 8px;
+	}
+	
+.navegacion:hover{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #D03D03;
+	display: block;
+	width: 140px;
+	padding: 8px;
+	}
